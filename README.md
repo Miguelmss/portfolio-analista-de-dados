@@ -1,7 +1,7 @@
 # Portfólio de Projetos de Análise de Dados
 ---
 
-olá me chamo Miguel e seja bem vindo uo meu repositório de portfólio de Analise de dados.Aqui estão reunidos diversos projetos que desenvolvi ao longo dos meus estudos e práticas na área, estes projetos não visam a eficiencia maxima e nem a melhor solução saõ projetos utilizados para exercitar as ferramentas de analise de dados buscando experiencia em situações reais infrentadas por um Analista de dados.
+olá me chamo Miguel e seja bem vindo uo meu repositório de portfólio de Analise de dados.Aqui estão reunidos diversos projetos que desenvolvi ao longo dos meus estudos e práticas na área, estes projetos não visam a eficiencia maxima e nem a melhor solução são projetos utilizados para exercitar as ferramentas de analise de dados buscando experiencia em situações reais infrentadas por um Analista de dados.
 
 #### Aviso
 alguns projetos foram guiados pelo curso de Analista de dados da  [EBAC](https://ebaconline.com.br/).

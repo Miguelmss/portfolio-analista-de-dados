@@ -34,5 +34,5 @@ Sou um estudante de analise de dados pela EBAC apaixonado por transformar dados 
 
 ## Contato
 
-- **LinkedIn**: [Miguel severo da silva](https://www.linkedin.com/in/miguel-severo-da-silva-351773287/)
+- **LinkedIn**: [Miguel severo da silva](https://www.linkedin.com/in/miguelseverodasilva/)
 - **Email**: miguel.severo1314@gmail.com

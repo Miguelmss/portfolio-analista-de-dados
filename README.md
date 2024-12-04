@@ -24,6 +24,16 @@ alguns projetos foram guiados pelo curso de Analista de dados da  [EBAC](https:/
 - **Principais técnicas**:  tratamento de dados, enrequecimento dos dados, criação de visualizações interativas .
 - **Ferramentas**: Python, Pandas, looker studio.
 
+### 4. [Analise de dados com SQL](https://github.com/Miguelmss/portfolio-analista-de-dados/tree/main/Analise%20de%20dados%20com%20SQL) [EBAC](https://ebaconline.com.br/)
+- **Descrição**: Analisar dados de credito bancario utilizando o SQL para gerar insights utéis ao banco.
+- **Principais técnicas**:  analise de dados, queries e subqueries com novas variaveis.
+- **Ferramentas**: SQL, AWS S3 e AWS Athena.
+
+### 5. [Pipeline de dados do Telegram](https://github.com/Miguelmss/portfolio-analista-de-dados/tree/main/Pipeline%20de%20dados%20do%20Telegram) [EBAC](https://ebaconline.com.br/)
+- **Descrição**: criação de um procceso de ETL (Extract, Transform, Load) para a extração de mensagens no aplicativo de mensagens Telegram.
+- **Principais técnicas**:  extração de dados, processamento de dados, carregamento de dados e queries .
+- **Ferramentas**: Python, request, json, AWS(S3,labda,Athena,Event bridges e API gateway).
+
 ---
 
 ## Sobre Mim
